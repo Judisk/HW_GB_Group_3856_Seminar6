@@ -19,7 +19,7 @@ void HWGBSeminar6()
         switch (task)
         {
             case "41": Console.Clear(); Task41(); break;
-            case "43J": Console.Clear(); Task43Jane54575457(); break;
+            case "43": Console.Clear(); Task43Jane54575457(); break;
             case "44": Console.Clear(); Task44(); break;
             case "exit": return; break;
             default: Console.Clear(); Console.WriteLine("Неверное значение"); break;
